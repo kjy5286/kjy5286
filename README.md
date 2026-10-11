@@ -54,6 +54,5 @@ Git · GitHub · Vercel · Android Test Build
 
 ## Links
 
-- Portfolio: 
 - GitHub: https://github.com/kjy5286
 - Email: kjy5662860@naver.com
