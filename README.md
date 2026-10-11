@@ -7,7 +7,7 @@ AI 감정 분석 웹 서비스 DRAW&YOU와 AI 일상 돌봄 모바일 앱 띠링
 
 ## Portfolio
 
-[📄 이력서 및 포트폴리오]([PDF주소](https://github.com/kjy5286/portfolio/blob/main/%EA%B9%80%ED%98%84%EC%88%98_git%EC%9A%A9_%EC%9D%B4%EB%A0%A5%EC%84%9C%2B%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf))
+[📄 이력서 및 포트폴리오](https://github.com/kjy5286/portfolio/blob/main/%EA%B9%80%ED%98%84%EC%88%98_git%EC%9A%A9_%EC%9D%B4%EB%A0%A5%EC%84%9C%2B%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
 프로젝트별 구현 내용과 문제 해결 과정은 PDF에서 확인하실 수 있습니다.
 
